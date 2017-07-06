@@ -1,0 +1,15 @@
+//
+//  JYGlobal.pch
+//  JYCalendar
+//
+//  Created by 张涛 on 16/8/1.
+//  Copyright © 2016年 张涛. All rights reserved.
+//
+
+#ifndef JYGlobal_pch
+#define JYGlobal_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* JYGlobal_pch */
